@@ -1,0 +1,8 @@
+.idea
+*.exe
+*.bat
+.bin
+.env
+
+*.db
+*.db.lock
